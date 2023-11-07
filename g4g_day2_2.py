@@ -1,3 +1,5 @@
+# Check String
+# https://www.geeksforgeeks.org/problems/check-string1818/1?page=1&category=Strings&difficulty=School,Basic,Easy&sortBy=difficulty
 class Solution:
     def check (self,s):
         # your code here
